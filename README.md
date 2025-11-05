@@ -18,4 +18,3 @@ A simple Android sample app demonstrating **Biometric Authentication** using **J
 - **MainActivity.kt** – Contains the UI and integrates biometric authentication.  
 - **BioMetricPromptManager.kt** – Manages the biometric prompt and authentication results using Kotlin Flows.
 
-### Below are the screenshots of the app.
